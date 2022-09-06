@@ -7,7 +7,23 @@ _React and React Native Developer based in Bishkek, Kyrgyzstan_
 
 
 ### Skills
- [Js] [React-js] [React-Native] [Redux] [Redux-Saga] [Redux-Toolkit] [TypeScript] [Figma] [Html5] [CSS3] [SASS(SCSS)] [Bem] [Bootstrap] [Material-UI] [Ant-Design] [Three-JS]
+
+ - Js (es5, es6+)
+ - React-js
+ - React-Native
+ - Redux
+ - Redux-Saga
+ - Redux Toolkit
+ - TypeScript
+ - Figma
+ - Html5
+ - CSS3
+ - SASS(SCSS)
+ - Bem
+ - Bootstrap
+ - Material-UI
+ - Ant-Design
+ - Three-JS
  
 
 ### Work experience
